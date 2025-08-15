@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/devops-playground/FileContentIndex
+/.vs
+/sampleApp/.vs/sampleApp
